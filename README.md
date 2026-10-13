@@ -2,7 +2,7 @@
 
 # HOME - The Family Brain 🧠
 ### 100-Tool Family OS for Alexa+ | Smarter Home • Family First
-> Built by Devi Sushma Akhila | Vijayawada, India 🇮🇳
+> Built by Biddiki Devi Sushma Akhila | Vijayawada, India 🇮🇳
 
 [![Demo](https://img.shields.io/badge/🎥_Demo-YouTube-red?style=for-the-badge)](https://youtube.com)
 [![Alexa+](https://img.shields.io/badge/Built_for-Alexa+-blue?style=for-the-badge)]()
