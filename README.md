@@ -1,58 +1,36 @@
-\# HOME - The Family Brain | 100-Tool Family OS for Alexa+
+![HOME Banner](./banner.png)
 
-\*\*Author: Devi Sushma Akhila\*\*
+# HOME - The Family Brain 🧠
+### 100-Tool Family OS for Alexa+ | Smarter Home • Family First
+> Built by Devi Sushma Akhila | Vijayawada, India 🇮🇳
 
+[![Demo](https://img.shields.io/badge/🎥_Demo-YouTube-red?style=for-the-badge)](https://youtube.com)
+[![Alexa+](https://img.shields.io/badge/Built_for-Alexa+-blue?style=for-the-badge)]()
 
+**HOME is India's first Family Operating System that turns Alexa+ into your family's brain with 100 MCP tools.**
 
-\## Inspiration
+## 🎥 Demo Video (90 sec)
+Link: PASTE_YOUR_YOUTUBE_LINK_HERE
 
-Indian families juggle 100 things daily. Alexa should be the Family Brain, not just a speaker.
+## 🧠 Architecture
+![Architecture](./architecture.png)
 
+## 🛠️ 100 MCP Tools - 10 Categories
+- 🛒 Grocery: add_grocery, pantry_check, meal_plan...
+- 👨‍👩‍👧 Family: who_is_home, family_status...
+- ✅ Chores: create_chore, assign_chore...
+- 🗓️ Calendar: add_event, birthday_reminder...
+- 🏠 Home Control: light_control, security_status...
+- ❤️ Health: wellness_check, medication_reminder...
+- 💰 Finance: budget_track, expense_add...
+- 📚 Learning: lesson_plan, progress_track...
+- 🎮 Entertainment: media_suggest, game_time...
+- 💬 Communication: family_message, announcement...
 
+## 🔒 Privacy First
+Family data encrypted on AWS. Family owns data.
 
-\## What it does
-
-100-tool MCP server that makes Alexa+ the central nervous system for families:
-
-\- Grocery, meals, recipes, leftovers
-
-\- Kids homework, school calendar, lunchbox
-
-\- Health - medicines, water, sleep, mood
-
-\- Home - cleaning, laundry, plants, energy
-
-\- Finance - expenses, bills, savings
-
-\- Love - birthdays, stories, games, gratitude
-
-
-
-\## How Alexa+ uses it
-
-"Alexa, add milk for Aarav" -> add\_grocery tool
-
-"Alexa, family summary?" -> family\_summary tool
-
-"Alexa, create bedtime story for 5yr old" -> story\_time tool
-
-
-
-\## Tech
-
-Python + FastMCP 4.1.0 + MCP Protocol
-
-100 tools across 8 categories
-
-
-
-\## Setup
-
+## 🚀 Quick Start
+```bash
 pip install fastmcp
-
-python server.py
-
-
-
-Built by Devi Sushma Akhila for Alexa+ Skills Challenge
-
+python main.py
